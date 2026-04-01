@@ -1,2 +1,1 @@
-# coming-soon-weh
-coming soon in web
+# coming-soon-web
